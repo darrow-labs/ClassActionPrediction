@@ -16,15 +16,16 @@ USClassActions is an English dataset of 3K complaints from the US Federal Court 
 According to *requierments.txt*:
 ```
 transformers==4.17.0
+sentencepiece==0.1.97
 torch==1.11.0+cu113
 tokenizers==0.12.1
 spacy==3.2.3
 scikit-learn==1.1.1
 pandas==1.3.4
 numpy==1.20.3
-netcal==1.2.1
 nltk==3.6.5
 matplotlib==3.4.3
+datasets==2.6.1
 ```
 
 
