@@ -30,7 +30,7 @@ matplotlib==3.4.3
 
 ## Citations
 
-If you use HAT in your research, please cite:
+If you use our project in your research, please cite:
 
 [ClassActionPrediction: A Challenging Benchmark for Legal Judgment Prediction of Class Action Cases in the US](https://arxiv.org/abs/2211.00582). Gil Semo, Dor Bernsohn, Ben Hagag, Gila Hayat and Joel Niklaus. 2022. arXiv:2211.00582.
 
